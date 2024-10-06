@@ -60,3 +60,5 @@ We hosted 10 VM's in [digital oceans](https://www.digitalocean.com/?utm_campaign
 # Misc
 
 The math behind this project is bundled into a package on [Pypi](https://pypi.org/manage/project/mc-option-simulator-yale/releases/) and installation instructions can be found [here](https://github.com/yalehacks/MonteMath/blob/main/MonteCarloPricing/readme.MD)
+
+Try out our application [here](https://bellcrve.com/)
