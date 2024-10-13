@@ -6,17 +6,17 @@ The goal of this research is to distribute $\approx$ 10,000 Monte Carlo simulati
 
 We define variables:
 
-$$
-let \begin{cases}
+```math
+\text{let} = \begin{cases}
 r &= \text{Risk-free interest} \\
 S_{0} &= \text{Current stock price} \\
 Z &\sim \mathcal{N}(0, 1) \\
 \Delta t &= \text{Time increment} \\
 \sigma &= \text{Volatility} \\
 K &= \text{Strike price} \\
-T &= \text{Expiration date}\\
+T &= \text{Expiration date}
 \end{cases}
-$$
+```
 
 ## Geometric Brownian Motion
 
